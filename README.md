@@ -1,6 +1,6 @@
 # HR Data Analysis - Absenteeism at Work.
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 The primary objective of this project is to identify patterns and factors that contribute to absenteeism at work. By analyzing variables such as reasons for absence, age, education, number of children, number of pets, height, weight, social drinking and smoking habits. Improve workplace policies and practices by incorporating insights from data analysis to foster a healthier, more engaged, and more productive workforce.
 
